@@ -97,8 +97,8 @@ h3 {
 figure {
 	text-align: center;
 	padding: 1em 1em 1em 1em;
-	border-width: 5px
-	border-style: solid #c5b844;
+	border: 5px solid white;
+	border-radius: 24px; #c5b844;
 	border-radius: 24px;
 	margin: 0;
 }
