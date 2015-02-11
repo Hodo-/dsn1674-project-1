@@ -77,7 +77,6 @@ blockquote {
 	color: #b2a215;
 	font-size: 4rem;
 	text-align: center;
-	panning: 0;
 	margin: 0;
 }
 
@@ -86,7 +85,6 @@ cite {
 	text-align: center;
 	font-size: 1.5rem;
 	font-style: italic;
-	panning: 0;
 	margin: 0;
 }
 
@@ -125,6 +123,11 @@ figcaption {
 
 dt {
 	padding: 1em 0em 0em 0em;
+}
+
+.per {
+	margin: 0;
+	padding: 0;
 }
 
 dd {
